@@ -16,6 +16,10 @@ If that still doesn't clarify things, try Googling either the description, or th
 
 "El" is short for "element". Often, "el" is used in Javascript to refer to a certain element. In this case, when you're told to "do something with el," it means "do something with an element with the class of 'el'".
 
+## Hint
+
+If you're changing the CSS but everything looks the same in the browser, try resizing your window and/or adding some more CSS to make the edges of the elements more visible.
+
 ## The files are here:
 
 - [Positioning descriptions](positioning.md)
